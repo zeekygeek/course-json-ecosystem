@@ -2,9 +2,11 @@
 
 
 # Guide
-<br>
+
 
 We've put together a visual step-by-step guide to help you contribute:
+
+<br><br>
 
 # 1. **Fork the repository:** <br>
    ![Fork](resources/fork.png) 
