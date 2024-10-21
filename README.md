@@ -2,30 +2,30 @@
 
 
 # Guide
-
+<br>
 
 We've put together a visual step-by-step guide to help you contribute:
 
-1. **Fork the repository:** 
+# 1. **Fork the repository:** <br>
    ![Fork](resources/fork.png) 
-
-2. **Edit the repository name:**
+<br><br><br>
+# 2. **Edit the repository name:**  <br>
    ![Edit Repo Name](resources/repo-name.png) 
-
-3. **Navigate to the file you want to edit:**
+<br><br><br>
+# 3. **Navigate to the file you want to edit:** <br>
    ![Navigate](resources/navigate-.png) 
-
-4. **Add a new JSON course (to `courses.json`):**
+<br><br><br>
+# 4. **Add a new JSON course (to `courses.json`):**
    ![Add JSON Course](resources/json-course.png) 
-
-5. **Raise a Pull Request:** 
+<br><br>
+# 5. **Raise a Pull Request:** 
    ![Raise PR](resources/PR.png) 
-
-6. **Confirm your Pull Request:**
+<br><br>
+# 6. **Confirm your Pull Request:**
    ![Pull Request](resources/PR-raise.png) 
+<br><br>
 
-
-#Git Cheat Sheet 
+# Git Cheat Sheet 
 
 **1. Initialize a new Git repository:**
 
