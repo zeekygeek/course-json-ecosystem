@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "platform": "freeCodeCamp",
+    "free_course": "yes",
+    "course_name": "Responsive Web Design",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "free"
+  },
+  {
+    "id": 2,
+    "platform": "Coursera",
+    "free_course": "yes",
+    "course_name": "Machine Learning",
+    "link": "https://www.coursera.org/learn/machine-learning",
+    "difficulty": "intermediate",
+    "module_number": 11,
+    "certification": "paid"
+  },
+  {
+    "id": 3,
+    "platform": "Khan Academy",
+    "free_course": "yes",
+    "course_name": "Introduction to JavaScript",
+    "link": "https://www.khanacademy.org/computing/computer-programming/programming",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "N/A"
+  },
+  {
+    "id": 4,
+    "platform": "Udemy",
+    "free_course": "no",
+    "course_name": "Complete Python Bootcamp",
+    "link": "https://www.udemy.com/course/complete-python-bootcamp/",
+    "difficulty": "beginner",
+    "module_number": 12,
+    "certification": "paid" 
+  },
+  {
+    "id": 5,
+    "platform": "edX",
+    "free_course": "yes",
+    "course_name": "Introduction to Computer Science",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  }
+]
